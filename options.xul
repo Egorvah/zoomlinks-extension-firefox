@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<vbox xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <setting data-jetpack-id="jid0-pucd8AH34RrTFuePGarV9KmxS2U@jetpack" pref="extensions.jid0-pucd8AH34RrTFuePGarV9KmxS2U@jetpack.username" pref-name="username" title="Username" type="string"/>
+  <setting data-jetpack-id="jid0-pucd8AH34RrTFuePGarV9KmxS2U@jetpack" pref="extensions.jid0-pucd8AH34RrTFuePGarV9KmxS2U@jetpack.password" pref-name="password" title="Password" type="string"/>
+</vbox>
